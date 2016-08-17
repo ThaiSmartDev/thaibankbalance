@@ -21,7 +21,6 @@ $ npm run-script kbank
 ~~~
 $ open ./html
 $ open ./screenshots
-
 ~~~
 
 ## Support or Contact
