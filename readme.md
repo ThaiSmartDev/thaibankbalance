@@ -8,15 +8,21 @@ $ npm install -g casperjs
 $ npm install
 ```
 
-### Config the account
+### Config bank account
 1. Rename ./config/default.example.json to default.json.
 2. Config credentials and account.
 
-### Running the script
+### Run the script
 ```
 $ npm run-script scb
 $ npm run-script kbank
 ```
+### Check result
+~~~
+$ open ./html
+$ open ./screenshots
+
+~~~
 
 ## Support or Contact
 
